@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial Black', Arial, sans-serif;
+}
+
+body {
+    background: white;
+    max-width: 600px;
+    margin: 1rem auto;
+    padding: 2rem;
+    border: 3px solid #000;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.main-heading {
+    font-size: 3.5rem;
+    letter-spacing: 2px;
+    color: #333;
+}
+
+.sub-heading {
+    font-size: 0.8rem;
+    color: #555;
+    margin-top: -0.5rem;
+}
+
+.cta-section {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.cta-text {
+    font-size: 1.4rem;
+    color: #222;
+    margin-bottom: 0.5rem;
+}
+
+.quote {
+    font-size: 1.2rem;
+    color: #e74c3c;
+    font-style: italic;
+    margin: 1rem 0;
+}
+
+.rates-table {
+    width: 100%;
+    margin: 2rem 0;
+    border-collapse: collapse;
+}
+
+.rates-table td {
+    padding: 0.8rem;
+    font-size: 1.3rem;
+    border-bottom: 2px dashed #aaa;
+}
+
+.duration {
+    text-align: left;
+}
+
+.percentage {
+    text-align: right;
+    color: #c0392b;
+    font-weight: bold;
+}
+
+.collateral-notice {
+    text-align: center;
+    font-size: 1.4rem;
+    color: #fff;
+    background: #e74c3c;
+    padding: 0.8rem;
+    margin: 2rem 0;
+    border-radius: 70px 20px ;
+}
+
+.contact-section {
+    text-align: center;
+    margin-top: 2rem;
+    line-height: 1.8;
+}
+
+.contact-heading {
+    font-size: 1.6rem;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.contact-details {
+    font-size: 1.2rem;
+    color: #444;
+}
